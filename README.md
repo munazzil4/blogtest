@@ -15,7 +15,7 @@ run composer install and after run composer update
 run npm install and after run npm update
 
 ##5
-php artisan generate:key
+run php artisan generate:key
 
 ##6
 run php artisan migrate and after run php artisan db:seed
